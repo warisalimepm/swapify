@@ -287,5 +287,3 @@ function App() {
 }
 
 export default App;
-
-export { getItemValue, ValueHelperDisplay } from '../V4LU3_H3LP3R_C0D3.jsx';
